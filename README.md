@@ -8,4 +8,4 @@ It's useful for validating a Riemann config before reloading to make sure you do
 ## Usage
 
 1. `lein uberjar`
-2. `java -jar riemann-syntax-check-0.2.1-standalone.jar riemann.config`
+2. `java -jar riemann-syntax-check-0.2.2-standalone.jar riemann.config`
