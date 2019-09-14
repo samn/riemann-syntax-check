@@ -7,4 +7,4 @@
   :profiles {:dev {:dependencies [[midje "1.7.0" :scope "test"]]
                    :plugins [[lein-midje "3.1.3"]]}}
   :dependencies [[org.clojure/clojure "1.8.0"]
-                 [riemann "0.2.11"]])
+                 [riemann "0.3.2"]])
